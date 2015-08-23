@@ -8,7 +8,7 @@ This week I made some minor additions to Freeseer closing some old bugs. Notable
 
 **Auto-Selection of Talks**
 
-Since Freeseer is able to store the date/time of each talk via the TalkEditor we can use this data to discover which talk is most likely being recorded next. The idea for this feature is that when the user presses the STOP button, Freeseer will do a search in the database within a 15 minute window from the time the STOP button was pressed and see if there's any upcoming talks for the event-room that the user is currently recording in and automatically select it from the dropdown box. This minor addition makes the recording process slightly more automated for our volunteers at events when they are recording. You can read more about this commit at this <a href="http://github.com/Freeseer/freeseer/commit/06d14c57645917da963c924cd23c66717583ef2d">link</a>.
+Since Freeseer is able to store the date/time of each talk via the TalkEditor we can use this data to discover which talk is most likely being recorded next. The idea for this feature is that when the user presses the STOP button, Freeseer will do a search in the database within a 15 minute window from the time the STOP button was pressed and see if there's any upcoming talks for the event-room that the user is currently recording in and automatically select it from the dropdown box. This minor addition makes the recording process slightly more automated for our volunteers at events when they are recording. You can read more about this commit at this [link](http://github.com/Freeseer/freeseer/commit/06d14c57645917da963c924cd23c66717583ef2d).
 
 **Elapsed Time Display**
 
