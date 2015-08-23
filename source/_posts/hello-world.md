@@ -1,37 +1,12 @@
-title: Hello World
+title: Hello world!
+date: 2012-05-13 01:43:02
+tags:
+- freeseer
 ---
-Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Hello Internet. I've resisted the idea of blogging for a very long time but lately I've been wanting to give blogging a try.
 
-## Quick Start
+For my first post I want to briefly discuss some projects I'm involved in that are of interest to me. <a href="http://fosslc.org">fosslc</a> and <a href="http://github.com/Freeseer/freeseer">freeseer</a>, it is difficult for me to discuss one without mentioning the other so I will try to explain both projects.
 
-### Create a new post
+FOSSLC (<a href="http://fosslc.org">fosslc.org</a>) is a non-profit organization started by <a href="http://twitter.com/#!/42aross">Andrew Ross</a> with the goal of recording presentations at conferences and post them online so that more people can watch and hopefully help grow the community. The problem with technology conferences is that usually there are a lot of great interesting talks but if they are not recorded they are lost. fosslc tries to solve this problem by developing video recording technology that allows people to record presentations while being easy to use and simple to setup. fosslc also shares these videos online and provides a vender neutral place for people to come and watch videos from the various conferences that have been recorded by the fosslc team. I've had the pleasure of volunteering at fosslc since 2008 and helped record several conferences such as <a href="http://bsdcan.org">bsdcan</a>, <a href="http://pgcon.org">pgcon</a>, <a href="http://fsoss.senecac.on.ca">fsoss</a>, <a href="http://stateofthemap.org">sotm</a>, <a href="http://foss4g.org">foss4g</a> as well as fosslc's own local events.
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](http://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](http://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](http://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](http://hexo.io/docs/deployment.html)
+For the recordings fosslc uses <a href="http://github.com/Freeseer/freeseer">freeseer</a> recording software which is an open source video recording project. I've been contributing to the <a href="http://github.com/Freeseer/freeseer">freeseer</a> project since it began in 2009 and has been quite the learning experience for myself. Freeseer is developed using Python, PyQt for the UI, and GStreamer for the recording backend. The goal of this project is to create software to allow volunteers to record conferences very easily with a little instruction; basically select presenter-talk title, press record when the talk starts, and press stop when it finishes. Typically configuration and talk metadata is configured before a conference. I will explain in more detail in future posts how freeseer is used.
