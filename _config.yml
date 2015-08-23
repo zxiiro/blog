@@ -76,7 +76,7 @@ theme_config:
       Home: /blog
       # Delete this row if you don't want categories in your header nav bar
       Categories:
-      About: /about/index.html
+      About: /blog/about/index.html
 
     # Article list grouped by year
     groupByYear: true
