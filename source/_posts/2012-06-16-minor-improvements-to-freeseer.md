@@ -2,6 +2,7 @@ title: Minor improvements to Freeseer
 date: 2012-06-16 02:52:15
 tags:
 - freeseer
+- python
 ---
 This week I made some minor additions to Freeseer closing some old bugs. Notable ones include the following:
 

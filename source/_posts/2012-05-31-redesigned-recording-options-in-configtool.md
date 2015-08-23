@@ -2,6 +2,7 @@ title: Redesigned Recording options in Config Tool
 date: 2012-05-31 01:26:10
 tags:
 - freeseer
+- python
 ---
 Wanted to post a quick update on some Config Tool UI changes I've been working on in Freeseer experimental. The UI used to be a bit confusing where one would have to activate a plugin and then move to the "General" tab to configure the active plugins which turned out to be quite a few unnecessary steps.
 
