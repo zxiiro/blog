@@ -1,4 +1,4 @@
-title: configtool
+title: Redesigned Recording options in Config Tool
 date: 2012-05-31 01:26:10
 tags:
 - freeseer
