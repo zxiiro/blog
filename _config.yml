@@ -98,6 +98,7 @@ theme_config:
     social_links:
       twitter: https://twitter.com/zxiiro
       github: https://github.com/zxiiro
+      linkedin: https://www.linkedin.com/in/thanhha
     widgets:
     - recent_posts
     - category
