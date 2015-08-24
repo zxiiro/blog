@@ -104,7 +104,7 @@ theme_config:
     - archive
     - tag
     - tagcloud
-    - links
+    # - links
 
     # Links
     links:
