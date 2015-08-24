@@ -62,6 +62,9 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
+plugins:
+- hexo-generator-cname
+
 ## Themes: http://hexo.io/themes/
 theme: hueman
 
@@ -115,7 +118,6 @@ theme_config:
     favicon: /favicon.png
     fb_admins:
     fb_app_id:
-
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
