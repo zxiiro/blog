@@ -33,6 +33,10 @@ Style ensuring that a blank line is left.
 **Line 4-6**
 Ensures that the EPL license header is intact and format agreed by OpenDaylight.
 
+## check-license.xml
+
+This file tells Maven how to use the LICENSE.txt file.
+
 Setting up a custom execution
 
 {% codeblock Custom License Execution lang:xml %}
