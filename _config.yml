@@ -80,6 +80,7 @@ theme_config:
       # Delete this row if you don't want categories in your header nav bar
       # Categories:
       About: /about/
+      Presentations: /presentations/
 
     # Article list grouped by year
     groupByYear: true
